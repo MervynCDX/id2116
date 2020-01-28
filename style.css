@@ -1,7 +1,7 @@
 
 body {
     background-color: rgb(251, 255, 235);
-    background-image: image();
+    background-image: img src="profileimage/Mervyn_Headshot_170120_0133.jpg";
     padding: 0; 
     margin: 0;
   }
