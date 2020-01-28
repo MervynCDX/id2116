@@ -5,7 +5,7 @@ body {
   }
   
   h1 {
-    font-family: Lemon Milk;
+    font-family: LEMON MILK Regular;
     color: #cfc5a9;
     text-align: center;
     font-size: 70px;
@@ -18,9 +18,8 @@ body {
   }
   .portrait {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
     width: 100%;
-    border-radius: 3px;
   }
