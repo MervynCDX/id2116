@@ -19,7 +19,7 @@ body {
     text-align: center;
   }
   .portrait {
-    position: relative;
+    display: block;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
