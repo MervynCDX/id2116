@@ -11,6 +11,13 @@ body {
     text-align: center;
     font-size: 70px;
   }
+
+  h2 {
+    font-family: Roboto;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+  }
   
   p {
     font-family: 'Courier Nw', Courier, monospace;
