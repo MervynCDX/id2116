@@ -18,7 +18,9 @@ body {
     text-align: center;
   }
   .portrait {
-    position: relative;
+    position: absolute;
+    margin-left: 0px;
+    margin-right:0px;
     color: white;
   }
   .header {
