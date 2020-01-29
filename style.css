@@ -18,11 +18,12 @@ body {
     text-align: center;
   }
   .portrait {
-    position: block;
+    position: relative;
     margin-left: 0px;
     margin-right:0px;
     margin-top: 0px;
-    width: 100%;
+    padding-top: 0px;
+    width: auto;
     color: white;
   }
   .header {
