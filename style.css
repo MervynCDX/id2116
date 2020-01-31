@@ -32,6 +32,7 @@ body {
 
   img {
     float:left;
+    margin-bottom: 0px;
   }
 
   .header {
