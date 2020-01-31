@@ -30,6 +30,10 @@ body {
     margin-left: 0px;
   }
 
+  img {
+    float:left;
+  }
+
   .header {
     position: absolute;
     top: 10%;
