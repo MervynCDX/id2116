@@ -24,9 +24,9 @@ body {
     font-size: 35px;
     text-align: center;
   }
-  
+
   .portrait {
-    position: relative;
+    float:left;
     margin-left: 0px;
   }
 
